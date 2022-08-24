@@ -1,0 +1,9 @@
+spring:
+  redis:
+    host: localhost
+    port: 6379
+    #lettuce/jedis 指定客户端类型
+    client-type: jedis
+
+
+
